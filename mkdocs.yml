@@ -1,0 +1,24 @@
+site_name: راهنمای فارسی CS50P
+site_description: آموزش مرحله‌ای پایتون و Problem Setهای CS50P
+theme:
+  name: material
+  language: fa
+  direction: rtl
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - خانه: index.md
+  - هفته ۰ - توابع و متغیرها: week-00.md
+  - هفته ۱ - شرط‌ها: week-01.md
+  - هفته ۲ - حلقه‌ها: week-02.md
+  - هفته ۳ - استثناها: week-03.md
+  - هفته ۴ - کتابخانه‌ها: week-04.md
+  - هفته ۵ - تست‌نویسی: week-05.md
+  - هفته ۶ - فایل‌ها: week-06.md
+  - هفته ۷ - Regular Expressions: week-07.md
+  - هفته ۸ - شیءگرایی: week-08.md
+  - مرور کدهای نهایی: solutions/README.md
